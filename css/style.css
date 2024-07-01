@@ -1,0 +1,10 @@
+.col-3{
+    border: 1px solid black;
+
+}
+.col-3 img{
+    /* display: none; */
+    width: 100%;
+    height: 50vh;
+    object-fit: cover;
+}
